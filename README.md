@@ -20,8 +20,8 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Quick links
 
-{% content-ref url="overview/csgo.md" %}
-[csgo.md](overview/csgo.md)
+{% content-ref url="overview/csgo/" %}
+[csgo](overview/csgo/)
 {% endcontent-ref %}
 
 {% content-ref url="overview/our-features.md" %}
