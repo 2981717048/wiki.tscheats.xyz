@@ -1,45 +1,45 @@
-# 👋 欢迎来到天使小店
+---
+description: 请滑动到下面查看教程与菜单推荐列表，若你是移动端，请点击左上角三条横扛查看教程
+---
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+# ☀ 天使小店wiki教程
+
+## **作者**
+
+### **此Wiki教程由**<mark style="color:red;">**红中作者**</mark>**提供，并通过**<mark style="color:red;">**红中作者**</mark>**同意转载**
+
+**在此感谢红中作者的支持，以下是红中作者的原创地址**
+
+> ****[<mark style="color:red;">**原创地址**</mark>](https://docs.wiki.hzcheats.one/)<mark style="color:red;">****</mark>
+
+****
+
+****
+
+{% hint style="success" %}
+<mark style="color:green;">**建议Ctrl+D收藏此教程网**</mark>
+
+**推荐使用电脑端查看教程**
+
+**你可以在本文档下方**
+
+**找到菜单推荐列表，方便你选择心仪的菜单**
+
+**或者找到你购买的辅助 查看教程**
+
+<mark style="color:green;">**由于此文档篇幅较多，需仔细耐心查看**</mark>f all your features! use them to encourage folks to perform certain actions and discover the value in your product.
 {% endhint %}
 
-## Overview
+<figure><img src=".gitbook/assets/QQ截图20220908182949.png" alt=""><figcaption></figcaption></figure>
 
-Here are a couple of example overviews from products with really great docs:
+## 概述
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+> <mark style="color:green;">**>二十余种菜单经销商**</mark>
 >
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
+> <mark style="color:green;">**>安装器UI设计-菜单主题UI设计-菜单功能图制作-菜单汉化与菜单更新日志**</mark>
 >
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+> **点击下方【**[**发卡网/Shop**](https://tscheats.cc/)**】进入发卡网💞**
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+****
 
-## Quick links
-
-{% content-ref url="overview/csgo/" %}
-[csgo](overview/csgo/)
-{% endcontent-ref %}
-
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+> <mark style="color:red;">**红中丨**</mark>[<mark style="color:red;">**HongZhong**</mark>](https://docs.wiki.hzcheats.one/) **  **<mark style="color:red;">**编写,转载署名！**</mark>
