@@ -16,11 +16,11 @@
 
 <figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption><p><strong>下载后解压</strong></p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **手动方法**
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **如上图所示才算关闭成功！**
 

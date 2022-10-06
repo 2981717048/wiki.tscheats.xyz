@@ -8,13 +8,13 @@
 >
 > **查看是否中文路径**
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **然后`WIN`+`R`输入 %appdata% 回车**
 
 **看看以下路径有没有中文**
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **如果是**<mark style="color:red;">**中文**</mark>**，尝试修改"**<mark style="color:blue;">**我的文档**</mark>**"**<mark style="color:purple;">**路径**</mark>** 或者 修改"**<mark style="color:blue;">**用户名**</mark>**"为**<mark style="color:purple;">**英文**</mark>
 >

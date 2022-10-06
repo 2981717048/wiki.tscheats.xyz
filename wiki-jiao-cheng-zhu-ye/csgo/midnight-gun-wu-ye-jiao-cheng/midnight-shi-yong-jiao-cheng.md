@@ -22,9 +22,9 @@
 
 **按照下图复制你的激活码**
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption><p><strong>点击</strong><mark style="color:blue;"><strong><code>蓝色</code></strong></mark><strong>按钮激活</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22) (1).png" alt=""><figcaption><p><strong>点击</strong><mark style="color:blue;"><strong><code>蓝色</code></strong></mark><strong>按钮激活</strong></p></figcaption></figure>
 
 ## **下载**
 
@@ -42,15 +42,15 @@
 
 **鼠标右键**<mark style="color:blue;">**管理员身份**</mark>**运行安装器**
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 **输入完邮箱密码后点击 **<mark style="color:red;">**`LOG IN NOW`**</mark>** 登陆**
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption><p><strong>然后点击</strong><mark style="color:red;"><strong><code>START IT NOW</code></strong></mark></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p><strong>然后点击</strong><mark style="color:red;"><strong><code>START IT NOW</code></strong></mark></p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p><strong>随便选择一个中国服务器，点击后，然后会自动下载。</strong></p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:blue;">**目前午夜两个中国服务器，一个欧洲服务器，如若选择其中一个中国服务器下载速度慢**</mark>
@@ -60,17 +60,17 @@
 
 <mark style="color:red;">**弹出下图此窗口后进入游戏即可，会自动注入。**</mark>
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:red;">**以下窗口不能关，最小化即可**</mark>
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 **之后会自动打开Steam和CSGO**
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **如若注入失败**
 
@@ -90,7 +90,7 @@
 
 ## **设置中文**
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ****
 
