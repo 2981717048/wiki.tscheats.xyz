@@ -1,17 +1,19 @@
 # Table of contents
 
-* [☀ 天使小店wiki教程](README.md)
+* [☀ 天使Wiki教程文档](README.md)
 
 ## wiki教程主页
 
 * [💡 Csgo](wiki-jiao-cheng-zhu-ye/csgo/README.md)
   * [Midnight丨午夜 教程](wiki-jiao-cheng-zhu-ye/csgo/midnight-gun-wu-ye-jiao-cheng/README.md)
     * [Midnight使用教程](wiki-jiao-cheng-zhu-ye/csgo/midnight-gun-wu-ye-jiao-cheng/midnight-shi-yong-jiao-cheng.md)
+    * [Midnight功能图](wiki-jiao-cheng-zhu-ye/csgo/midnight-gun-wu-ye-jiao-cheng/midnight-gong-neng-tu.md)
   * [Nixware使用教程](wiki-jiao-cheng-zhu-ye/csgo/nixware-shi-yong-jiao-cheng/README.md)
     * [Nixware注入闪退](wiki-jiao-cheng-zhu-ye/csgo/nixware-shi-yong-jiao-cheng/nixware-zhu-ru-shan-tui.md)
     * [Nixware通用功能介绍](wiki-jiao-cheng-zhu-ye/csgo/nixware-shi-yong-jiao-cheng/nixware-tong-yong-gong-neng-jie-shao.md)
     * [Nixware不卡ESP](wiki-jiao-cheng-zhu-ye/csgo/nixware-shi-yong-jiao-cheng/nixware-bu-ka-esp.md)
     * [Nixware功能说明](wiki-jiao-cheng-zhu-ye/csgo/nixware-shi-yong-jiao-cheng/nixware-gong-neng-shuo-ming.md)
+* [Steam更新](wiki-jiao-cheng-zhu-ye/steam-geng-xin.md)
 
 ***
 
