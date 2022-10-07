@@ -14,7 +14,7 @@
 
 **看看以下路径有没有中文**
 
-<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **如果是**<mark style="color:red;">**中文**</mark>**，尝试修改"**<mark style="color:blue;">**我的文档**</mark>**"**<mark style="color:purple;">**路径**</mark>** 或者 修改"**<mark style="color:blue;">**用户名**</mark>**"为**<mark style="color:purple;">**英文**</mark>
 >
@@ -26,7 +26,7 @@
 
 **售后群下载运行库并安装**
 
-****![](<.gitbook/assets/image (3).png>)****
+****![](<.gitbook/assets/image (3) (1).png>)****
 
 ****
 

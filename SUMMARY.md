@@ -4,6 +4,7 @@
 
 ## wiki教程主页
 
+* [Steam更新](wiki-jiao-cheng-zhu-ye/steam-geng-xin.md)
 * [💡 Csgo](wiki-jiao-cheng-zhu-ye/csgo/README.md)
   * [Midnight丨午夜 教程](wiki-jiao-cheng-zhu-ye/csgo/midnight-gun-wu-ye-jiao-cheng/README.md)
     * [Midnight使用教程](wiki-jiao-cheng-zhu-ye/csgo/midnight-gun-wu-ye-jiao-cheng/midnight-shi-yong-jiao-cheng.md)
@@ -13,7 +14,6 @@
     * [Nixware通用功能介绍](wiki-jiao-cheng-zhu-ye/csgo/nixware-shi-yong-jiao-cheng/nixware-tong-yong-gong-neng-jie-shao.md)
     * [Nixware不卡ESP](wiki-jiao-cheng-zhu-ye/csgo/nixware-shi-yong-jiao-cheng/nixware-bu-ka-esp.md)
     * [Nixware功能说明](wiki-jiao-cheng-zhu-ye/csgo/nixware-shi-yong-jiao-cheng/nixware-gong-neng-shuo-ming.md)
-* [Steam更新](wiki-jiao-cheng-zhu-ye/steam-geng-xin.md)
 
 ***
 

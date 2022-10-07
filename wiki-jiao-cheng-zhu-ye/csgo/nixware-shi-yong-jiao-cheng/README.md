@@ -19,7 +19,7 @@
 {% hint style="danger" %}
 **如果注册时下图的验证码无法显示**
 
-****![](../../../.gitbook/assets/image.png)****
+****![](<../../../.gitbook/assets/image (3).png>)****
 
 **使用科学上网**
 {% endhint %}
@@ -36,7 +36,7 @@
 
 ## **激活**
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p><strong>回到论坛首页点击</strong> <mark style="color:blue;"><code>Account upgrades</code> <strong></strong></mark><strong> 跳转至 购买页面</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p><strong>回到论坛首页点击</strong> <mark style="color:blue;"><code>Account upgrades</code> <strong></strong></mark><strong> 跳转至 购买页面</strong></p></figcaption></figure>
 
 ​
 
@@ -56,13 +56,13 @@
 
 **下载客户端后 **<mark style="color:blue;">**`鼠标右键管理员身份`**</mark><mark style="color:blue;">** **</mark><mark style="color:blue;">****</mark>** 运行客户端**
 
-<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 > <mark style="color:blue;">**输入账号密码点击log-in登陆**</mark>
 >
 > <mark style="color:blue;">**exit是退出**</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **选择 **<mark style="color:blue;">**`nixware.cc`**</mark>** 后点击** <mark style="color:blue;">**`Load`**</mark>** 注入**
 
