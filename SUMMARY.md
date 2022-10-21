@@ -14,6 +14,8 @@
     * [Nixware通用功能介绍](wiki-jiao-cheng-zhu-ye/csgo/nixware-shi-yong-jiao-cheng/nixware-tong-yong-gong-neng-jie-shao.md)
     * [Nixware不卡ESP](wiki-jiao-cheng-zhu-ye/csgo/nixware-shi-yong-jiao-cheng/nixware-bu-ka-esp.md)
     * [Nixware功能说明](wiki-jiao-cheng-zhu-ye/csgo/nixware-shi-yong-jiao-cheng/nixware-gong-neng-shuo-ming.md)
+  * [ZEER使用教程](wiki-jiao-cheng-zhu-ye/csgo/zeer-shi-yong-jiao-cheng/README.md)
+    * [ZEER中文功能注解](wiki-jiao-cheng-zhu-ye/csgo/zeer-shi-yong-jiao-cheng/zeer-zhong-wen-gong-neng-zhu-jie.md)
 
 ***
 

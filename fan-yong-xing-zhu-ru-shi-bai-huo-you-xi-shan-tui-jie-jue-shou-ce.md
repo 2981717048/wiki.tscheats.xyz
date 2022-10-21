@@ -26,7 +26,7 @@
 
 **售后群下载运行库并安装**
 
-****![](<.gitbook/assets/image (3) (1).png>)****
+****![](<.gitbook/assets/image (3) (1) (1).png>)****
 
 ****
 

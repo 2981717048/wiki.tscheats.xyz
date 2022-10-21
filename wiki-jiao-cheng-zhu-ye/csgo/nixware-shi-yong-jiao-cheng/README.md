@@ -19,7 +19,7 @@
 {% hint style="danger" %}
 **如果注册时下图的验证码无法显示**
 
-****![](<../../../.gitbook/assets/image (3).png>)****
+****![](<../../../.gitbook/assets/image (3) (1).png>)****
 
 **使用科学上网**
 {% endhint %}
@@ -36,7 +36,7 @@
 
 ## **激活**
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p><strong>回到论坛首页点击</strong> <mark style="color:blue;"><code>Account upgrades</code> <strong></strong></mark><strong> 跳转至 购买页面</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p><strong>回到论坛首页点击</strong> <mark style="color:blue;"><code>Account upgrades</code> <strong></strong></mark><strong> 跳转至 购买页面</strong></p></figcaption></figure>
 
 ​
 
@@ -62,7 +62,7 @@
 >
 > <mark style="color:blue;">**exit是退出**</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **选择 **<mark style="color:blue;">**`nixware.cc`**</mark>** 后点击** <mark style="color:blue;">**`Load`**</mark>** 注入**
 

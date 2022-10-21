@@ -96,7 +96,7 @@
 
 #### visuals <a href="#user-content-1.4" id="user-content-1.4"></a>
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -193,7 +193,7 @@
 
 #### misc <a href="#user-content-1.7" id="user-content-1.7"></a>
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
