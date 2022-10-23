@@ -16,6 +16,8 @@
     * [Nixware功能说明](wiki-jiao-cheng-zhu-ye/csgo/nixware-shi-yong-jiao-cheng/nixware-gong-neng-shuo-ming.md)
   * [ZEER使用教程](wiki-jiao-cheng-zhu-ye/csgo/zeer-shi-yong-jiao-cheng/README.md)
     * [ZEER中文功能注解](wiki-jiao-cheng-zhu-ye/csgo/zeer-shi-yong-jiao-cheng/zeer-zhong-wen-gong-neng-zhu-jie.md)
+* [💡 Valorant](wiki-jiao-cheng-zhu-ye/valorant/README.md)
+  * [Etatty功能注解](wiki-jiao-cheng-zhu-ye/valorant/etatty-gong-neng-zhu-jie.md)
 
 ***
 
