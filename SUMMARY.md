@@ -21,6 +21,9 @@
 
 ***
 
+* [💡 APEX](apex/README.md)
+  * [Etarry使用教程](apex/etarry-shi-yong-jiao-cheng/README.md)
+    * [Etatty功能注解](apex/etarry-shi-yong-jiao-cheng/etatty-gong-neng-zhu-jie.md)
 * [泛用性注入失败或游戏闪退解决手册](fan-yong-xing-zhu-ru-shi-bai-huo-you-xi-shan-tui-jie-jue-shou-ce.md)
 * [关闭Win10/Win11病毒防护教程](guan-bi-win10win11-bing-du-fang-hu-jiao-cheng.md)
 * [DX修复工具使用教程](dx-xiu-fu-gong-ju-shi-yong-jiao-cheng.md)
