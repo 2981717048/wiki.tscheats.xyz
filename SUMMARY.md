@@ -22,6 +22,10 @@
 ***
 
 * [💡 APEX](apex/README.md)
+  * [Macro使用教程](apex/macro-shi-yong-jiao-cheng/README.md)
+    * [Macro功能展示与标注](apex/macro-shi-yong-jiao-cheng/macro-gong-neng-zhan-shi-yu-biao-zhu.md)
+  * [Neon使用教程](apex/neon-shi-yong-jiao-cheng/README.md)
+    * [Neon功能展示与标注](apex/neon-shi-yong-jiao-cheng/neon-gong-neng-zhan-shi-yu-biao-zhu.md)
   * [Legacy使用教程](apex/legacy-shi-yong-jiao-cheng/README.md)
     * [功能展示：](apex/legacy-shi-yong-jiao-cheng/gong-neng-zhan-shi.md)
   * [Etarry使用教程](apex/etarry-shi-yong-jiao-cheng/README.md)

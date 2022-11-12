@@ -20,7 +20,7 @@
 
 ### **手动方法**
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **如上图所示才算关闭成功！**
 
