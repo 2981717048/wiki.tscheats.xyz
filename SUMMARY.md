@@ -22,6 +22,8 @@
 ***
 
 * [💡 APEX](apex/README.md)
+  * [Legacy使用教程](apex/legacy-shi-yong-jiao-cheng/README.md)
+    * [功能展示：](apex/legacy-shi-yong-jiao-cheng/gong-neng-zhan-shi.md)
   * [Etarry使用教程](apex/etarry-shi-yong-jiao-cheng/README.md)
     * [Etatty功能注解](apex/etarry-shi-yong-jiao-cheng/etatty-gong-neng-zhu-jie.md)
 * [泛用性注入失败或游戏闪退解决手册](fan-yong-xing-zhu-ru-shi-bai-huo-you-xi-shan-tui-jie-jue-shou-ce.md)
