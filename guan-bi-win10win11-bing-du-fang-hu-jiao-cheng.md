@@ -8,13 +8,13 @@
 
 **先把杀毒软件卸载掉，在按照上方教程 操作**
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **自动方法**
 
 **3、按照上方教程操完完成后，售后群 下载 一键关闭WIN10安全中心 软件**
 
-<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption><p><strong>下载后解压</strong></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (21) (1).png" alt=""><figcaption><p><strong>下载后解压</strong></p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 

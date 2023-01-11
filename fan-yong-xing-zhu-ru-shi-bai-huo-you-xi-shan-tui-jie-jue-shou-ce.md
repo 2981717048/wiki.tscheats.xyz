@@ -8,7 +8,7 @@
 >
 > **查看是否中文路径**
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **然后`WIN`+`R`输入 %appdata% 回车**
 

@@ -13,7 +13,7 @@ BootStrapperForceSelfUpdate = disable
 #ForceOfflineMode=enable
 ```
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **然后保存文件后退出txt文本**
 >

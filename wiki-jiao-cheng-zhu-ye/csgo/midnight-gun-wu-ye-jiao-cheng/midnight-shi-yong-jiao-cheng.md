@@ -14,23 +14,23 @@
 
 > **如果注册时下图的验证码无法显示**
 >
-> ![](<../../../.gitbook/assets/image (10).png>)****
+> ![](<../../../.gitbook/assets/image (10) (1).png>)****
 >
 > **使用`科学上网`**
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p><strong><code>注册成功后</code></strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p><strong><code>注册成功后</code></strong></p></figcaption></figure>
 
 **按照下图复制你的激活码**
 
 <figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (22) (1).png" alt=""><figcaption><p><strong>点击</strong><mark style="color:blue;"><strong><code>蓝色</code></strong></mark><strong>按钮激活</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption><p><strong>点击</strong><mark style="color:blue;"><strong><code>蓝色</code></strong></mark><strong>按钮激活</strong></p></figcaption></figure>
 
 ## **下载**
 
 **激活成功后首页会多一个选项**
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption><p><strong>这是下载注入器的意思</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p><strong>这是下载注入器的意思</strong></p></figcaption></figure>
 
 **下载完注入器后**
 
@@ -48,9 +48,9 @@
 
 <figure><img src="../../../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p><strong>然后点击</strong><mark style="color:red;"><strong><code>START IT NOW</code></strong></mark></p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p><strong>随便选择一个中国服务器，点击后，然后会自动下载。</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p><strong>随便选择一个中国服务器，点击后，然后会自动下载。</strong></p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:blue;">**目前午夜两个中国服务器，一个欧洲服务器，如若选择其中一个中国服务器下载速度慢**</mark>
@@ -70,7 +70,7 @@
 
 **之后会自动打开Steam和CSGO**
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **如若注入失败**
 
@@ -90,7 +90,7 @@
 
 ## **设置中文**
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ****
 

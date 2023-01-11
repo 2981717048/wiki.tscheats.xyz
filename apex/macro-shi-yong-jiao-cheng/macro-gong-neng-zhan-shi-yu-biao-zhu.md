@@ -26,6 +26,6 @@ High Quality Zoom Hack丨
 {% endtab %}
 
 {% tab title="功能展示与中文注解" %}
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}

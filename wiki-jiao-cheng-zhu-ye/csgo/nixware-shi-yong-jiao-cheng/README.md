@@ -6,7 +6,7 @@
 
 **登陆官方论坛后点击右上角Register注册**
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:red;">**注册的时候不能有中文跟特殊字符，不然会注册/注入不了**</mark>
@@ -26,13 +26,13 @@
 
 **注册后会跳转下图页面**
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption><p><strong>然后登陆你注册时输入的邮箱</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30) (1).png" alt=""><figcaption><p><strong>然后登陆你注册时输入的邮箱</strong></p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption><p><strong>点击确认邮箱后跳转到官网并且提醒您已完成邮箱认证。</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31) (1).png" alt=""><figcaption><p><strong>点击确认邮箱后跳转到官网并且提醒您已完成邮箱认证。</strong></p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption><p><strong>上图所示代表注册成功</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p><strong>上图所示代表注册成功</strong></p></figcaption></figure>
 
 ## **激活**
 
@@ -56,13 +56,13 @@
 
 **下载客户端后 **<mark style="color:blue;">**`鼠标右键管理员身份`**</mark><mark style="color:blue;">** **</mark><mark style="color:blue;">****</mark>** 运行客户端**
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 > <mark style="color:blue;">**输入账号密码点击log-in登陆**</mark>
 >
 > <mark style="color:blue;">**exit是退出**</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **选择 **<mark style="color:blue;">**`nixware.cc`**</mark>** 后点击** <mark style="color:blue;">**`Load`**</mark>** 注入**
 
@@ -90,7 +90,7 @@
 <mark style="color:blue;">**（奇游/暴喵 加速**</mark><mark style="color:blue;">**`游戏通用`**</mark><mark style="color:blue;">**！别选CSGO 然后欧服**</mark>
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **参数**
 
@@ -102,6 +102,6 @@
 
 **CSGO根目录的Nix文件夹内**
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**菜单**</mark><mark style="color:blue;">**`Misc`**</mark><mark style="color:blue;">**内加载参数 菜单Lua内加载脚本**</mark>

@@ -2,7 +2,7 @@
 
 #### legitbot <a href="#user-content-1.1" id="user-content-1.1"></a>
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 *   **Globals**
 

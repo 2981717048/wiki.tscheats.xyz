@@ -24,6 +24,6 @@ VISIBLE CHEC丨视觉检测
 {% endtab %}
 
 {% tab title="功能展示与中文注解" %}
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (5).png>)
 {% endtab %}
 {% endtabs %}
