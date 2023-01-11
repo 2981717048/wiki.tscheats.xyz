@@ -20,7 +20,7 @@ description: ZEER使用教程
 
 **选择您要修改的武器类型 （ 例如：SSG08 / 鸟狙 ）**
 
-<figure><img src="../../../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -46,7 +46,7 @@ description: ZEER使用教程
 <mark style="color:blue;">**Items count：生成武器的数量 （ 输入多少就生成多少个 ）**</mark>
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 **然后请点击游戏中的库存、装备即可**
 

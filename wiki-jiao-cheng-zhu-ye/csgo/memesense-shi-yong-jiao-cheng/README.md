@@ -6,13 +6,13 @@
 
 {% embed url="https://memesense.gg/" %}
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 ## 激活下载
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 **激活后点击左侧 `Download client` 下载注入器**
 
@@ -22,7 +22,7 @@
 
 {% embed url="https://www.3ayx.net/act/invite/?inviter=4jbxCpTUImc1f/aQaBrw4A==" %}
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 ## **注入**
 
@@ -30,11 +30,11 @@
 >
 > **卸载杀毒软件(如：**~~**360 电脑管家 鲁大师**~~**等等)**
 
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 **菜单采用游戏外注入**
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 > **目前没有游戏内注入方法、且目前注入器有部分人无法注入和崩溃闪退问题。**
 

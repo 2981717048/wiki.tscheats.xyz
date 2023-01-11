@@ -37,7 +37,7 @@
 
 #### ragebot <a href="#user-content-1.2" id="user-content-1.2"></a>
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -149,7 +149,7 @@
 
 #### skins <a href="#user-content-1.5" id="user-content-1.5"></a>
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -179,7 +179,7 @@
 
 #### lua <a href="#user-content-1.6" id="user-content-1.6"></a>
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
 *   **Scripts/Scripts items**
 

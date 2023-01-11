@@ -4,7 +4,7 @@
 
 [点击进入官网](https://airflow.su/?\_\_cf\_chl\_tk=nvRbePXESyC3\_hNB\_BNwHqbnuXH3YOHInByw1ywRwN8-1662293360-0-gaNycGzNCr0)
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## **激活**
 
@@ -12,15 +12,15 @@
 
 {% embed url="https://airflow.su/account/keys/" %}
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption><p><strong>出现此页面代表激活成功</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption><p><strong>出现此页面代表激活成功</strong></p></figcaption></figure>
 
 ## **下载**
 
 **激活后会出现`Download`按钮,点击下载注入器**
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 ### 加速器
 
@@ -28,7 +28,7 @@
 
 {% embed url="https://www.3ayx.net/act/invite/?inviter=4jbxCpTUImc1f/aQaBrw4A==" %}
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 ## **注入**
 
@@ -38,7 +38,7 @@
 
 **输入对应信息后登录**
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 **选择`CS:GO`**
 

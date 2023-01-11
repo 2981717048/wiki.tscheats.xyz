@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="功能图" %}
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="文件版" %}

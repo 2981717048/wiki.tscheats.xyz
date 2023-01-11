@@ -22,9 +22,9 @@
 
 **按照下图复制你的激活码**
 
-<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption><p><strong>点击</strong><mark style="color:blue;"><strong><code>蓝色</code></strong></mark><strong>按钮激活</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22) (1).png" alt=""><figcaption><p><strong>点击</strong><mark style="color:blue;"><strong><code>蓝色</code></strong></mark><strong>按钮激活</strong></p></figcaption></figure>
 
 ## **下载**
 
@@ -46,11 +46,11 @@
 
 **输入完邮箱密码后点击 **<mark style="color:red;">**`LOG IN NOW`**</mark>** 登陆**
 
-<figure><img src="../../../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p><strong>然后点击</strong><mark style="color:red;"><strong><code>START IT NOW</code></strong></mark></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23) (1) (1).png" alt=""><figcaption><p><strong>然后点击</strong><mark style="color:red;"><strong><code>START IT NOW</code></strong></mark></p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p><strong>随便选择一个中国服务器，点击后，然后会自动下载。</strong></p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:blue;">**目前午夜两个中国服务器，一个欧洲服务器，如若选择其中一个中国服务器下载速度慢**</mark>
@@ -90,7 +90,7 @@
 
 ## **设置中文**
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ****
 

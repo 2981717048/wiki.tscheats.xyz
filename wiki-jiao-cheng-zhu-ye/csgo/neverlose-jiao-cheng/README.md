@@ -6,25 +6,25 @@
 
 **点击右上角 **<mark style="color:blue;">**`Register`**</mark>
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:red;">**注册的时候不能有中文跟特殊字符，不然会注册/注入不了**</mark>
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **如果注册时下图的验证码无法显示**
 
-****![](<../../../.gitbook/assets/image (33).png>)****
+****![](../../../.gitbook/assets/image.png)****
 
 **使用科学上网**
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (35).png>)
 
 ## 激活
 
@@ -42,7 +42,7 @@
 
 {% embed url="https://www.3ayx.net/act/invite/?inviter=4jbxCpTUImc1f/aQaBrw4A==" %}
 
-<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 ## 下载
 
@@ -62,7 +62,7 @@
 
 **下载后 **<mark style="color:blue;">**`鼠标右键管理员运行`**</mark>** 注入器(个人Steam并未关闭,Steam是开启的,但是不要开启CSGO游戏 ）**
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 **注入器打开后、点击 **<mark style="color:blue;">**`Star`**</mark>
 
@@ -93,7 +93,7 @@
 
 > **注意：邀请链接似乎每次只能使用一个人**
 
-<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 **脚本创建或读取：**[**点击查看NEVERLOSE API**](https://docs.neverlose.cc/)\
 **①：自己拥有Lua源代码或者想自己写的**

@@ -14,19 +14,19 @@
 
 > **按照下图操作`注册`账号**
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 ## 激活
 
-<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 ## 下载
 
 {% tabs %}
 {% tab title="官网下载" %}
-<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="网盘下载" %}
@@ -54,7 +54,7 @@
 
 **下载后 `鼠标右键管理员运行` 注入器(个人Steam并未关闭,Steam是开启的,但是不要开启CSGO游戏 ）**
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">**正常情况下CSGO和Steam会关闭、关闭之后会重新启动一次Steam、帮你自动打开CSGO游戏客户端**</mark>&#x20;
