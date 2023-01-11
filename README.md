@@ -23,7 +23,7 @@
 
 **或者找到你购买的辅助 查看教程**
 
-<mark style="color:green;">**由于此文档篇幅较多，需仔细耐心查看**</mark>f all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+<mark style="color:green;">**由于此文档篇幅较多，需仔细耐心查看**</mark>
 {% endhint %}
 
 <figure><img src=".gitbook/assets/QQ截图20220908182949.png" alt=""><figcaption></figcaption></figure>
