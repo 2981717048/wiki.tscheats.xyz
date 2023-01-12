@@ -45,6 +45,8 @@
 ***
 
 * [💡 APEX](apex/README.md)
+  * [DG使用教程](apex/dg-shi-yong-jiao-cheng/README.md)
+    * [DG功能图](apex/dg-shi-yong-jiao-cheng/dg-gong-neng-tu.md)
   * [Macro使用教程](apex/macro-shi-yong-jiao-cheng/README.md)
     * [Macro功能展示与标注](apex/macro-shi-yong-jiao-cheng/macro-gong-neng-zhan-shi-yu-biao-zhu.md)
   * [Neon使用教程](apex/neon-shi-yong-jiao-cheng/README.md)

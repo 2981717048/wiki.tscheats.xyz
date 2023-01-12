@@ -22,7 +22,7 @@
 
 {% embed url="https://www.3ayx.net/act/invite/?inviter=4jbxCpTUImc1f/aQaBrw4A==" %}
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## **注入**
 

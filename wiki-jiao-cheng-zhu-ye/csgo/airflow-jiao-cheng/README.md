@@ -4,7 +4,7 @@
 
 [点击进入官网](https://airflow.su/?\_\_cf\_chl\_tk=nvRbePXESyC3\_hNB\_BNwHqbnuXH3YOHInByw1ywRwN8-1662293360-0-gaNycGzNCr0)
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## **激活**
 

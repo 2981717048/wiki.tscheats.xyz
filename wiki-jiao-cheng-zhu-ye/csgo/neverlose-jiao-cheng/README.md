@@ -17,7 +17,7 @@
 {% hint style="info" %}
 **如果注册时下图的验证码无法显示**
 
-****![](../../../.gitbook/assets/image.png)****
+****![](<../../../.gitbook/assets/image (3).png>)****
 
 **使用科学上网**
 {% endhint %}

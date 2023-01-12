@@ -32,7 +32,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (31) (1).png" alt=""><figcaption><p><strong>点击确认邮箱后跳转到官网并且提醒您已完成邮箱认证。</strong></p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption><p><strong>上图所示代表注册成功</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (2).png" alt=""><figcaption><p><strong>上图所示代表注册成功</strong></p></figcaption></figure>
 
 ## **激活**
 
@@ -56,7 +56,7 @@
 
 **下载客户端后 **<mark style="color:blue;">**`鼠标右键管理员身份`**</mark><mark style="color:blue;">** **</mark><mark style="color:blue;">****</mark>** 运行客户端**
 
-<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 > <mark style="color:blue;">**输入账号密码点击log-in登陆**</mark>
 >
