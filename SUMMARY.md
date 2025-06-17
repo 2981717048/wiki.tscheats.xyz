@@ -1,6 +1,6 @@
 # Table of contents
 
-* [☀ 天使Wiki教程文档](README.md)
+* [☀️ 天使Wiki教程文档](README.md)
 
 ## wiki教程主页
 
